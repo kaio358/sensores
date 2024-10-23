@@ -1,0 +1,7 @@
+.div_card{
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px -2px black;
+    border: 1px solid black;
+    width: 450px;
+    padding: 5px;
+}
