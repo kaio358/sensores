@@ -1,7 +1,7 @@
 .div_home{
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
+    /* align-content: center; */
     justify-content: center;
     padding: 5px;
     gap: 5px;
